@@ -1,0 +1,3 @@
+{
+  "error": "Command '['curl', '-s', '-X', 'POST', 'https://api.grok4fast.com/v1/release-notes', '-H', 'Authorization: Bearer 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', '-H', 'Content-Type: application/json', '-d', '{\"commits\": [\"feat: initial pipeline setup\", \"fix: general fixes\"]}']' returned non-zero exit status 35."
+}

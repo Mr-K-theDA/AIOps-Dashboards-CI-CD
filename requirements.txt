@@ -1,0 +1,10 @@
+# Example requirements for pipeline environment
+streamlit
+pandas
+requests
+python-dotenv
+certifi
+urllib3
+pyopenssl
+cryptography
+idna
