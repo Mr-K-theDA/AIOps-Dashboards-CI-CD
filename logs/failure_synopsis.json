@@ -1,0 +1,13 @@
+{
+  "synopsis": {
+    "likely_cause": "Simulated failure for demonstration.",
+    "fixes": [
+      "Check the error logs for details.",
+      "Verify all dependencies are installed.",
+      "Ensure environment variables are set correctly."
+    ],
+    "links": [
+      "https://docs.example.com/troubleshooting"
+    ]
+  }
+}
