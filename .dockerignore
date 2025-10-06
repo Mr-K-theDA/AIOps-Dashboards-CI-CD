@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore logs and runs
+logs/
+*.log
+*.exit
+runs.json
+runs.csv
+
+# Ignore local virtual environments
+venv/
+env/
+/.venv/
+
+# Git and editor metadata
+.git/
+.gitignore
+.vscode/
+
+# Docker related
+Dockerfile
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
