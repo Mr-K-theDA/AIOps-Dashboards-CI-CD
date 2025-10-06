@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Python wheel
+*.whl
+
+# Editor backups
+*~
+.DS_Store
+
+# Docker
+**/.dockerignore
